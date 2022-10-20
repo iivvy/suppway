@@ -1,0 +1,339 @@
+{
+	"app_bar": {
+		"homepagetitle": "SuppWayy",
+		"settingtitle": "Paramètres"
+	},
+	"theme": {
+		"dark": "Mode Sombre"
+	},
+	"settings": {
+		"max_histories": "Maximum de traces à conserver dans l'historique"
+	},
+	"language": {
+		"button": {
+			"cancel": "Annuler",
+			"change_language": "Change de Langue"
+		},
+		"name": {
+			"en_US": "Anglais",
+			"fr": "Français"
+		},
+		"selected_message": "Langue selectionné {language}",
+		"selection": {
+			"message": "Please select a language from the list",
+			"title": "Language Selection"
+		}
+	},
+	"cardtrace": {
+		"title": "Tracer",
+		"content": "La traçabilité est la capacité à tracer l'historique, l'origine ou la localisation d'un produit."
+	},
+	"salorderpage": {
+		"title": "Commandes de vente"
+	},
+	"homepage": {
+		"bottomNavigationBar": {
+			"home": "Accueil",
+			"trace": "Trace",
+			"payment": "Paiements"
+		}
+	},
+	"welcomepage": {
+		"saleorders": "Bons de commandes"
+	},
+	"drawer": {
+		"myname": "Nom",
+		"mymail": "me@reewayy.io",
+		"mycontacts": "Mes Contacts",
+		"myproducts": "Mes Produits",
+		"mylot": "Mes Lots",
+		"mylocation": "Mes Localisations",
+		"mypayment": "Mes Paiements",
+		"setting": "Paramètres",
+		"logout": "Déconnexion",
+		"confirmLogout": "Etes-vous sûr de vouloir vous déconnecter ?"
+	},
+	"trace": {
+		"trace": "Trace",
+		"codebar": "Code à barre",
+		"qrcode": "Code QR",
+		"n_lot": "n° Lot",
+		"location": "Localisation",
+		"hinttext": {
+			"codebar": "Entrer ou scanner le code à barres",
+			"qrcode": "Entrer ou scanner le Code QR",
+			"n_lot": "Entrer le numéro de Lot",
+			"location": "Localisation"
+		},
+		"button": {
+			"trace": "Tracer"
+		}
+	},
+	"sale": {
+		"title": "Nouvelle commande",
+		"sale": "Vente",
+		"sales": "Ventes",
+		"state": "Etat",
+		"quantity": "Quantité",
+		"name": "Nom",
+		"partnerName": "Nom du partenaire",
+		"date": "Date",
+		"price": "Prix",
+		"comment": "Commentaire",
+		"amount": "Montant",
+		"product": "Produit",
+		"tax": "Taxe",
+		"total": "Total",
+		"taxedTotal": "Total Taxes",
+		"discount": "Remise",
+		"lot": "Lot",
+		"location": "Localization de livraison",
+		"button": {
+			"create": "Créer",
+			"addproduct": "Ajouter un Produit",
+			"cancel": "Annuler",
+			"add": "Ajouter"
+		},
+		"states": {
+			"confirmed": "Confirmé",
+			"cancel": "Annulé",
+			"draft": "Brouillon"
+		},
+		"createsuccess": "Commande de vente créée avec succès",
+		"createfailed": "Échec de création d'une commande de vente",
+		"updatesuccess": "Commande de vente mis à jour avec succès",
+		"updatefailed": "Échec de mise à jour de la commande de vente",
+		"deletesuccess": "Commande de vente supprimée avec succès",
+		"deletefailed": "Échec de suppression de la commande de vente",
+		"deleteAlert": "Êtes-vous sûr de vouloir supprimer cette commande de vente?",
+		"sendsuccess": "E-mail envoyé avec succès",
+		"sendfailed": "L'envoi d'e-mail à échoué",
+		"printsuccess": "Commande de vente imprimé avec succès",
+		"printfailed": "L'impression d'une commande de vente à échoué",
+		"print": "Imprimer",
+		"send": "Envoyé",
+		"delete": "Supprimer",
+		"Information": "Informations",
+		"line": "Lignes",
+		"optionalLine": "Lignes Optionnelles",
+		"deliveries": "Livraison"
+	},
+	"line": {
+		"title": "Nouvelle ligne",
+		"updatetitle": "Mettre à jour une ligne",
+		"deleteAlert": "Êtes-vous sûr de vouloir supprimer cette commande de vente ?",
+		"createsuccess": "Ligne de commande de vente créée avec succès",
+		"createfailed": "Échec de création d'une ligne de commande de vente",
+		"updatesuccess": "Ligne de commande de vente mis à jour avec succès",
+		"updatefailed": "Échec de mise à jour de la  ligne de commande de vente",
+		"deletesuccess": "Ligne de commande de vente supprimée avec succès",
+		"deletefailed": "Échec de suppression de la ligne de commande de vente",
+		"errorLoadingOptional": "Erreur lors du chargement des lignes optionnelles"
+	},
+	"product": {
+		"products": "Produits",
+		"Addproduct": "Ajouter nouveau Produit",
+		"name": "Nom",
+		"gtin": "GTIN",
+		"lot": "Lot",
+		"searchproduct": "Rechercher un produit",
+		"traceableItemID": "Code QR",
+		"errorLoading": "Erreur lors du chargement des produits",
+		"details": "Détails",
+		"Lots": "Lots",
+		"Medias": "Médias",
+		"Description": "Déscription",
+		"taxe": "Taxe",
+		"quantity": "Quantité",
+		"volume": "Volume",
+		"standardPrice": "Prix standard",
+		"isPerishable": "Périssable",
+		"isRefrigerated": "Réfrigéré",
+		"isFragile": "Fragile",
+		"isBigSize": "Grande taille",
+		"slide": "Glisser",
+		"Unpublished": "Non publié",
+		"published": "Publié",
+		"createsuccess": "Produit créée avec succès",
+		"createfailed": "Echec de création du produit",
+		"updatesuccess": "Produit mis à jour avec succès",
+		"updatefailed": "Échec de mise à jour du produit",
+		"deletesuccess": "Produit supprimée avec succès",
+		"deletefailed": "Échec de suppression du produit",
+		"deleteAlert": "Êtes-vous sûr de vouloir supprimer ce produit ?"
+	},
+	"partner": {
+		"partners": "Contacts",
+		"titledetails": "Détails du contact",
+		"name": "Nom",
+		"phone": "Téléphone",
+		"address": "Addresse",
+		"mail": "E-mail",
+		"website": "Site web",
+		"users": "Utilisateurs",
+		"searchpartner": "Rechercher un Partenaire",
+		"errorLoading": "Erreur lors du chargement des partenaires",
+		"addcontact": "Ajouter un Contact",
+		"button": {
+			"add": "Ajouter"
+		},
+		"createsuccess": "Contact créée avec succès",
+		"createfailed": "Échec de création d'un contact",
+		"updatesuccess": "Contact mis à jour avec succès",
+		"updatefailed": "Échec de mise à jour d'un contact",
+		"deletesuccess": "Contact supprimée avec succès",
+		"deletefailed": "Échec de suppression d'un Contact",
+		"deleteAlert": "Êtes-vous sûr de vouloir supprimer ce contact ?"
+	},
+	"lot": {
+		"lots": "Lots",
+		"Addlot": "Ajouter nouveau lot",
+		"updateLot": "Mettre à jour le lot",
+		"reference": "Réference",
+		"date": "Date",
+		"quantity": "Quantité",
+		"products": "Produits",
+		"searchlot": "Rechercher un Lot",
+		"errorLoading": "Erreur lors du chargement des lots",
+		"button": {
+			"add": "Ajouter"
+		},
+		"position": "Position",
+		"delete": "SUPPRIMER",
+		"createsuccess": "Lot créée avec succès",
+		"createfailed": "Échec de la création du Lot",
+		"updatesuccess": "Lot mis à jour avec succès",
+		"updatefailed": "Échec de mise à jour du Lot",
+		"deletesuccess": "Lot supprimée avec succès",
+		"deletefailed": "Échec de suppression du Lot"
+	},
+	"location": {
+		"locations": "Localisations",
+		"searchlocation": "Rechercher des localisations",
+		"add": "Ajouter",
+		"Details": "Détails",
+		"info": "Informations",
+		"address": "Addresse",
+		"position": "Position",
+		"name": "Nom",
+		"gln": "GLN",
+		"number": "Numéro",
+		"street": "Rue",
+		"postalCode": "Code Postal",
+		"city": "Ville",
+		"country": "Pays",
+		"lat": "Latitude",
+		"lon": "Longitude",
+		"button": {
+			"getPosition": "A partir de l'adresse"
+		},
+		"errorLoading": "Erreur lors du chargement des localisations",
+		"emptyList": "Aucune localisation trouvée",
+		"createsuccess": "Localisation créée avec succès",
+		"createfailed": "Échec de création de la localisation",
+		"updatesuccess": "Localisation mis à jour avec succès",
+		"updatefailed": "Échec de mise à jour de la localisation",
+		"deletesuccess": "Localisation supprimée avec succès",
+		"deletefailed": "Échec de suppression de la localisation",
+		"deleteAlert": "Êtes-vous sûr de vouloir supprimer cette localisation ?"
+	},
+	"payment": {
+		"payments": "Paiements",
+		"amount": "Montant",
+		"Billing": "Détails de la facturation",
+		"receipt": "Voir le reçu",
+		"authorize": "Autoriser Stripe",
+		"deauthorize": "Révoquer Autorisation de Stripe",
+		"error": "Erreur lors du chargement des Paiements",
+		"accountAuthorized": "Votre compte Stripe a été authorisé",
+		"accountDeAuthorized": "L'authorisation Stripe de votre compte a été revoké",
+		"confirmDeAuthorize": "Etes-vous sûr de vouloir révoker votre compte Stripe ?"
+	},
+	"authorize": "Authoriser Stripe",
+	"deauthorize": "Revoker l'authorization de Stripe",
+	"edit": "Modifier",
+	"delete": "Supprimer",
+	"cancel": "Quitter",
+	"profile": {
+		"myProfile": "Mon Profile",
+		"updateSuccess": "Votre compte a été mis à jour",
+		"updateFailed": "Échec de mise à jour de votre compte",
+		"textauthorize": "Si vous souhaitez collecter les paiements sur la marketplace \n\n vous devez autoriser votre compte Stripe sur la plateforme"
+	},
+	"media": {
+		"loadedSuccess": "Photo chargée avec succès",
+		"loadedError": "Echec de chargement de la photo",
+		"deleteSuccess": "Photo supprimée avec succès",
+		"deleteError": "Echec de dupprission de la photo"
+	},
+	"upload": {
+		"choose_option": "Choisir une option",
+		"gallery": "Galerie",
+		"camera": "Caméra"
+	},
+	"error": {
+		"emptyText": "Ce champ est vide"
+	},
+	"deliveries": {
+		"title": "Livraisons des Ventes ",
+		"addDelivery": "Ajouter Livraison",
+		"titleLine": "Lignes de livraison ",
+		"deliveryDetail": "Détails de livraison",
+		"sale": "Commande de Vente",
+		"signatureMethode": "Méthode de signature",
+		"taxes": "Taxes : ",
+		"total": "Totale : ",
+		"taxedTotal": "Taxes totales : ",
+		"NOT_READY": "PAS PRÊT",
+		"READY": "PRÊT",
+		"IN_PROGRESS": "EN COURS",
+		"DELIVERED": "LIVERÉ",
+		"states": "Status",
+		"signed": "Signé",
+		"createsuccess": "Livraison créée avec succès",
+		"createfailed": "Échec de création d'une Livraison",
+		"updatesuccess": "Livraison mis à jour avec succès",
+		"updatefailed": "Échec de mise à jour du Livraison",
+		"deletesuccess": "Livraison supprimée avec succès",
+		"deletefailed": "Échec de suppression du Livraison",
+		"salesNotFound": "Commandes de vente introuvables",
+		"updateLinesuccess": "Ligne de Livraison mis à jour avec succès",
+		"updateLinefailed": "Échec de mise à jour du Ligne de Livraison",
+		"deleteLinesuccess": "Ligne de Livraison supprimée avec succès",
+		"deleteLinefailed": "Échec de suppression du ligne de Livraison"
+	},
+	"manufacturing": {
+		"title": "Production",
+		"states": {
+			"confirmed": "Confirmé",
+			"cancel": "Annulé",
+			"draft": "Brouillon"
+		},
+		"createsuccess": "Commande de production créée avec succès",
+		"createfailed": "Échec de création d'une commande de production",
+		"updatesuccess": "Commande de production mis à jour avec succès",
+		"updatefailed": "Échec de mise à jour de la commande de production",
+		"deletesuccess": "Commande de production supprimée avec succès",
+		"deletefailed": "Échec de suppression de la commande de production",
+		"date": "Date",
+		"CONFIRMED": "CONFIRMÉ",
+		"CANCEL": "ANNULÉ",
+		"DRAFT": "BROUILLON",
+		"createLinesuccess": "Ligne de commande de Production créée avec succès",
+		"createLinefailed": "Échec de création d'une ligne de commande de Production",
+		"updateLinesuccess": "Ligne de commande de Production mis à jour avec succès",
+		"updateLinefailed": "Échec de mise à jour du Ligne de commande de Production",
+		"deleteLinesuccess": "Ligne de de commande de Production supprimée avec succès",
+		"deleteLinefailed": "Échec de suppression du ligne de commande de Production",
+		"state": "État",
+		"lines": "Lignes",
+		"newline": "Nouvelle Ligne",
+		"noline": "Aucune ligne existe ",
+		"neworder": "Nouvelle production",
+		"name": "Nom",
+		"emptyfield": "veuillez saisir du texte",
+		"Rawlot": "Lot de produits bruts",
+		"Finishedlot": "Lot de produits finis",
+		"quantity": "Quantité"
+	}
+}

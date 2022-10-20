@@ -1,0 +1,12 @@
+[
+    {
+        "id": 19,
+        "name": "product 1",
+        "gtin": "gting 1111"
+    },
+    {
+        "id": 20,
+        "name": "product 2",
+        "gtin": "gting222"
+    }
+]

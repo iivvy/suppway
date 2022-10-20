@@ -1,0 +1,26 @@
+[
+    {
+        "id": 264,
+        "reference": "reference_runner",
+        "date": "2021-11-14T13:46:29.374077",
+        "quantity": 100,
+        "product": {
+            "id": 422,
+            "name": "product_runner",
+            "gtin": "gting 1111",
+            "standardprice": 100
+        }
+    },
+    {
+        "id": 265,
+        "reference": "reference2_runner",
+        "date": "2021-11-14T13:46:29.385301",
+        "quantity": 100,
+        "product": {
+            "id": 423,
+            "name": "product_runner",
+            "gtin": "gting 1111",
+            "standardprice": 100
+        }
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "name": "runner_localisation",
+        "id":1,
+        "gltm": "gltm_runner",
+        "street": "street",
+        "number": 555,
+        "postalcode": "46000",
+        "city": "city",
+        "x": 33.8888,
+        "y": 32.8888,
+        "partner": {
+            "id": 727,
+            "name": "partner_runner",
+            "phone": "11",
+            "address": "address",
+            "email": "email@me.com",
+            "website": "http://website.com"
+        }
+    },
+    {
+        "name": "runner_localisation",
+        "id":2,
+        "gltm": "gltm_runner",
+        "street": "street",
+        "number": 555,
+        "postalcode": "46000",
+        "city": "city",
+        "x": 33.8888,
+        "y": 32.8888,
+        "partner": {
+            "id": 727,
+            "name": "partner_runner",
+            "phone": "11",
+            "address": "address",
+            "email": "email@me.com",
+            "website": "http://website.com"
+        }
+    },
+    {
+        "name": "runner_localisation",
+        "id":3,
+        "gltm": "gltm_runner",
+        "street": "street",
+        "number": 555,
+        "postalcode": "46000",
+        "city": "city",
+        "x": 33.8888,
+        "y": 32.8888,
+        "partner": {
+            "id": 727,
+            "name": "partner_runner",
+            "phone": "11",
+            "address": "address",
+            "email": "email@me.com",
+            "website": "http://website.com"
+        }
+    }
+]

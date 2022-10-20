@@ -1,0 +1,51 @@
+[
+    {
+        "id": 18,
+        "name": "SO00777",
+        "comment": "a New sale order 7777",
+        "date": "2021-11-08T14:11:25.956",
+        "addedAt": "2021-11-08T14:11:25.956043",
+        "slug": "so00777-2021-11-08t14-11-25-956466361",
+        "lines": [],
+        "partner": {
+            "id": 31,
+            "name": "name",
+            "phone": "11215454",
+            "address": "address",
+            "email": "email@me.com",
+            "website": "http://website.com"
+        },
+        "status": "DRAFT"
+    },
+    {
+        "id": 17,
+        "name": "SO008888",
+        "comment": "a New sale order 8888",
+        "date": "2021-11-08T14:11:25.463142",
+        "addedAt": "2021-11-08T14:11:25.463182",
+        "slug": "so008888-2021-11-08t14-11-27-328673432",
+        "lines": [
+            {
+                "id": 31,
+                "name": "line3",
+                "quantity": 30,
+                "price": 300.0
+            },
+            {
+                "id": 32,
+                "name": "line4",
+                "quantity": 40,
+                "price": 400.0
+            }
+        ],
+        "partner": {
+            "id": 32,
+            "name": "name",
+            "phone": "11215454",
+            "address": "address",
+            "email": "email@me.com",
+            "website": "http://website.com"
+        },
+        "status": "DRAFT"
+    }
+]

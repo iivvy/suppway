@@ -1,0 +1,335 @@
+{
+	"app_bar": {
+		"homepagetitle": "SuppWayy",
+		"settingtitle": "Settings"
+	},
+	"theme": {
+		"dark": "Dark Mode"
+	},
+	"settings": {
+		"max_histories": "Max traces to keep in history"
+	},
+	"language": {
+		"button": {
+			"cancel": "Cancel",
+			"change_language": "Change Language"
+		},
+		"name": {
+			"en_US": "English",
+			"fr": "French"
+		},
+		"selected_message": "Currently selected language is {language}",
+		"selection": {
+			"message": "Please select a language from the list",
+			"title": "Language Selection"
+		}
+	},
+	"cardtrace": {
+		"title": "Trace",
+		"content": "Traceability is the ability to trace the history, origin or location of a product."
+	},
+	"salorderpage": {
+		"title": "Sales orders"
+	},
+	"homepage": {
+		"bottomNavigationBar": {
+			"home": "Home",
+			"trace": "Trace",
+			"payment": "Payments"
+		}
+	},
+	"welcomepage": {
+		"saleorders": "Sale Orders"
+	},
+	"drawer": {
+		"myname": "Name",
+		"mymail": "me@reewayy.io",
+		"mycontacts": "My Contacts",
+		"myproducts": "My Products",
+		"mylot": "My Lots",
+		"mylocation": "My Locations",
+		"mypayment": "My Payments",
+		"setting": "Settings",
+		"logout": "Logout",
+		"confirmLogout": "Are you sure you want to Logout?"
+	},
+	"trace": {
+		"trace": "Trace",
+		"codebar": "Bar Code",
+		"qrcode": "QR code",
+		"n_lot": "Lot number",
+		"location": "Location",
+		"hinttext": {
+			"codebar": "Input or Scan the Barcode",
+			"qrcode": "Input or scan the QR Code",
+			"n_lot": "Input the lot number",
+			"location": "Location"
+		},
+		"button": {
+			"trace": "Trace"
+		}
+	},
+	"sale": {
+		"title": "New Sales Order",
+		"sale": "Sale",
+		"sales": "Sales",
+		"state": "State",
+		"quantity": "Quantity",
+		"name": "Name",
+		"partnerName": "Partner Name",
+		"date": "Date",
+		"price": "Price",
+		"comment": "Comment",
+		"amount": "Amount",
+		"product": "Product",
+		"lot": "Lot",
+		"tax": "Tax",
+		"total": "Total",
+		"taxedTotal": "Total Taxes",
+		"discount": "Discount",
+		"location": "Delivery location",
+		"button": {
+			"create": "Create",
+			"addproduct": "Add Product",
+			"add": "Add",
+			"cancel": "Cancel"
+		},
+		"states": {
+			"confirmed": "Confirmed",
+			"cancel": "Cancel",
+			"draft": "Draft"
+		},
+		"createsuccess": "Sale order successfully created",
+		"createfailed": "Failed to create sale order",
+		"updatesuccess": "Sale order successfully updated",
+		"updatefailed": "Failed to update sale order",
+		"deletesuccess": "Sale order successfully deleted",
+		"deletefailed": "Failed to delete sale order",
+		"deleteAlert": "Are you sure you want to delete this sale order ? ",
+		"sendsuccess": "Email sent successfully",
+		"sendfailed": "Failed to send email",
+		"printsuccess": "Sale Order print successfully",
+		"printfailed": "Failed to print the Sale Order",
+		"print": "Print",
+		"send": "Send",
+		"delete": "Delete",
+		"Information": "Informations",
+		"line": "Lines",
+		"optionalLine": "Optional Lines",
+		"deliveries": "Deliveries"
+	},
+	"line": {
+		"title": "New Line",
+		"updatetitle": "Update Line",
+		"deleteAlert": "Are you sure you want to delete this sale order line ? ",
+		"createsuccess": "Sale order line successfully created",
+		"createfailed": "Failed to create sale order line",
+		"updatesuccess": "Sale order line successfully updated",
+		"updatefailed": "Failed to update sale order line",
+		"deletesuccess": "Sale order line successfully deleted",
+		"deletefailed": "Failed to delete sale order line",
+		"errorLoadingOptional": "Error loading products"
+	},
+	"product": {
+		"products": "Products",
+		"Addproduct": "Add new product",
+		"name": "Name",
+		"gtin": "GTIN",
+		"lot": "Lot",
+		"searchproduct": "Search Product",
+		"traceableItemID": "QR Code",
+		"errorLoading": "Error loading products",
+		"details": "Details",
+		"Lots": "Lots",
+		"Medias": "Medias",
+		"Description": "Description",
+		"taxe": "Taxe",
+		"quantity": "Quantity",
+		"volume": "Volume",
+		"standardPrice": "Standard Price",
+		"isPerishable": "Perishable",
+		"isRefrigerated": "Refrigerated",
+		"isFragile": "Fragile",
+		"isBigSize": "Big Size",
+		"slide": "Slide",
+		"Unpublished": "Unpublished",
+		"published": "Published",
+		"createsuccess": "Product successfully created",
+		"createfailed": "Failed to create product",
+		"updatesuccess": "Product successfully updated",
+		"updatefailed": "Failed to update product",
+		"deletesuccess": "Product successfully deleted",
+		"deletefailed": "Failed to delete product",
+		"deleteAlert": "Are you sure you want to delete this product ?"
+	},
+	"partner": {
+		"partners": "Contacts",
+		"titledetails": "Details of contact",
+		"name": "Name",
+		"phone": "Phone",
+		"address": "Address",
+		"mail": "E-mail",
+		"website": "Website",
+		"users": "Users",
+		"searchpartner": "Search Contacts",
+		"error": "Error loading Contacts",
+		"addcontact": "Add Contact",
+		"button": {
+			"add": "Add"
+		},
+		"createsuccess": "Contact  successfully created",
+		"createfailed": "Failed to create contact",
+		"updatesuccess": "Contact successfully updated",
+		"updatefailed": "Failed to update contact",
+		"deletesuccess": "Contact successfully deleted",
+		"deletefailed": "Failed to delete Contact",
+		"deleteAlert": "Are you sure you want to delete this contact ?"
+	},
+	"lot": {
+		"lots": "Lots",
+		"Addlot": "Add new lot",
+		"updateLot": "Update lot",
+		"reference": "Reference",
+		"date": "Date",
+		"quantity": "Quantity",
+		"products": "Products",
+		"searchlot": "Search Lot",
+		"error": "Error loading lots",
+		"button": {
+			"add": "Add"
+		},
+		"delete": "DELETE",
+		"createsuccess": "Lot successfully created",
+		"createfailed": "Failed to create Lot",
+		"updatesuccess": "Lot successfully updated",
+		"updatefailed": "Failed to update Lot",
+		"deletesuccess": "Lot successfully deleted",
+		"deletefailed": "Failed to delete Lot"
+	},
+	"location": {
+		"locations": "Locations",
+		"searchlocation": "Search Location",
+		"add": "Add",
+		"Details": "Details",
+		"info": "Informations",
+		"address": "Address",
+		"position": "Position",
+		"name": "Name",
+		"gln": "GLN",
+		"number": "Number",
+		"street": "Street",
+		"postalCode": "Postal Code",
+		"city": "City",
+		"country": "Country",
+		"lat": "Latitude",
+		"lon": "Longitude",
+		"button": {
+			"getPosition": "From the Address"
+		},
+		"errorLoading": "Error loading locations",
+		"emptyList": "No location found",
+		"createsuccess": "Location successfully created",
+		"createfailed": "Failed to create location",
+		"updatesuccess": "Location successfully updated",
+		"updatefailed": "Failed to update location",
+		"deletesuccess": "Location successfully deleted",
+		"deletefailed": "Failed to delete Location",
+		"deleteAlert": "Are you sure you want to delete this location ?"
+	},
+	"payment": {
+		"payments": "Payments",
+		"amount": "Amount",
+		"Billing": "Billing Details",
+		"receipt": "Go to receipt",
+		"authorize": "Authorize Stripe",
+		"deauthorize": "Revoke Stripe Authorization",
+		"error": "Failed to load Payments",
+		"accountAuthorized": "Your account has been authorized",
+		"accountDeAuthorized": "Your account has been de-Authorized",
+		"confirmDeAuthorize": "Are you sure you want to de-Authorize ?"
+	},
+	"edit": "Edit",
+	"delete": "Delete",
+	"cancel": "Cancel",
+	"profile": {
+		"myProfile": "My Profile",
+		"updateSuccess": "Your account has been Updated",
+		"updateFailed": "Failed to update your account",
+		"textauthorize": "If you want to collect payment on the marketplace\n\n you must authorize your Stripe account to the platform"
+	},
+	"media": {
+		"loadedSuccess": "Photo successfully loaded",
+		"loadedError": "Failed to load photo",
+		"deleteSuccess": "Photo successfully deleted",
+		"deleteError": "Failed to delete a poto"
+	},
+	"upload": {
+		"choose_option": "Choose option",
+		"gallery": "Gallery",
+		"camera": "Camera"
+	},
+	"error": {
+		"emptyText": "This field is empty"
+	},
+	"deliveries": {
+		"title": "Sales Deliveries",
+		"addDelivery": "Add Delivery",
+		"titleLine": "Delivery Lines",
+		"deliveryDetail": "Delivery Details",
+		"sale": "Sale Order",
+		"signatureMethode": "Signature Methode",
+		"taxes": "Taxes : ",
+		"total": "Total : ",
+		"taxedTotal": "Taxed Total : ",
+		"NOT_READY": "NOT READY",
+		"READY": "READY",
+		"IN_PROGRESS": "IN PROGRESS",
+		"DELIVERED": "DELIVERED",
+		"states": "States",
+		"signed": "Signed",
+		"createsuccess": "Delivery successfully created",
+		"createfailed": "Failed to create Delivery",
+		"updatesuccess": "Delivery successfully updated",
+		"updatefailed": "Failed to update Delivery",
+		"deletesuccess": "Delivery successfully deleted",
+		"deletefailed": "Failed to delete Delivery",
+		"salesNotFound": "Sales Orders Not Found",
+		"updateLinesuccess": "Delivery Line successfully updated",
+		"updateLinefailed": "Failed to update Delivery Line",
+		"deleteLinesuccess": "Delivery Line successfully deleted",
+		"deleteLinefailed": "Failed to delete Delivery Line"
+	},
+	"manufacturing": {
+		"title": "Manufacturing",
+		"states": {
+			"confirmed": "Confirmed",
+			"cancel": "Cancel",
+			"draft": "Draft"
+		},
+		"createsuccess": "Manufacturing order successfully created",
+		"createfailed": "Failed to create Manufacturing order",
+		"updatesuccess": "Manufacturing order successfully updated",
+		"updatefailed": "Failed to update Manufacturing order",
+		"deletesuccess": "Manufacturing order successfully deleted",
+		"deletefailed": "Failed to delete Manufacturing order",
+		"neworder": "New Manufacturation",
+		"noline": "No lines created yet",
+		"date": "Date",
+		"CONFIRMED": "CONFIRMED",
+		"CANCEL": "Cancel",
+		"DRAFT": "DRAFT",
+		"createLinesuccess": "Manufacturing order Line successfully created",
+		"createLinefailed": "Failed to create Manufacturing order Line",
+		"updateLinesuccess": "Manufacturing Order Line successfully updated",
+		"updateLinefailed": "Failed to update Manufacturing Order Line",
+		"deleteLinesuccess": "Manufacturing Order Line successfully deleted",
+		"deleteLinefailed": "Failed to delete Manufacturing Order Line",
+		"state": "State",
+		"lines": "Lines",
+		"newline": "New Line",
+		"name": "Name",
+		"emptyfield": "Please enter some text",
+		"Rawlot": "Raw products lot",
+		"Finishedlot": "Finished products lot"
+	}
+}
